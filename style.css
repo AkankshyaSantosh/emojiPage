@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: lightyellow;
+}
+
+.emoji-face {
+    width: 100px;
+    height: 100px;
+    background-color: #F2dd68;
+    border-radius: 50%;
+    box-shadow: 2px 0px 2px 2px rgba(0, 0, 0, 0.09);
+    position: relative;
+}
+
+.eye1 {
+    height: 15px;
+    width: 13px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 25px;
+    left: 20px;
+}
+
+.eye2 {
+    height: 15px;
+    width: 13px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 25px;
+    left: 70px;
+}
+
+.mouth {
+    height: 35px;
+    width: 70px;
+    background-color: #995710;
+    border-radius: 0px 0px 90px 90px;
+    position: absolute;
+    top: 52px;
+    left: 16px;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.tounge {
+    height: 38px;
+    width: 38px;
+    border-radius: 40%;
+    background-color: #e25d5d;
+    position: absolute;
+    top: 20px;
+    left: 15px;
+}
+
+.emoji-face {
+    width: 100px;
+    height: 100px;
+    background-color: #F2dd68;
+    border-radius: 50%;
+    box-shadow: 2px 0px 2px 2px rgba(0, 0, 0, 0.09);
+    position: relative;
+    top: 20px;
+}
+
+.eye3 {
+    height: 15px;
+    width: 13px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 25px;
+    left: 20px;
+}
+
+.eye4 {
+    height: 15px;
+    width: 13px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 25px;
+    left: 70px;
+}
+
+.mouth2 {
+    height: 35px;
+    width: 70px;
+    background-color: #995710;
+    border-radius: 50px;
+    position: absolute;
+    top: 52px;
+    left: 16px;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.tounge2 {
+    height: 38px;
+    width: 38px;
+    border-radius: 40%;
+    background-color: #e25d5d;
+    position: absolute;
+    top: 20px;
+    left: 15px;
+}
+
+.emoji-face {
+    width: 100px;
+    height: 100px;
+    background-color: #F2dd68;
+    border-radius: 50%;
+    box-shadow: 2px 0px 2px 2px rgba(0, 0, 0, 0.09);
+    position: relative;
+    top: 40px;
+}
+
+.eye5 {
+    height: 15px;
+    width: 13px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 25px;
+    left: 20px;
+}
+
+.eye6 {
+    height: 15px;
+    width: 13px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 25px;
+    left: 70px;
+}
+
+.mouth-shock {
+    height: 40px;
+    width: 50px;
+    background-color: #995710;
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    left: 27px;
+}
+
+.emoji-face {
+    width: 100px;
+    height: 100px;
+    background-color: #F2dd68;
+    border-radius: 50%;
+    box-shadow: 2px 0px 2px 2px rgba(0, 0, 0, 0.09);
+    position: relative;
+    top: 50px;
+}
+
+.eye7 {
+    height: 15px;
+    width: 13px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 25px;
+    left: 20px;
+}
+
+.eye8 {
+    height: 15px;
+    width: 13px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 25px;
+    left: 70px;
+}
+
+.mouth-speechless {
+    height: 5px;
+    width: 70px;
+    background-color: #995710;
+    position: absolute;
+    top: 62px;
+    left: 16px;
+}
+
+.wrapper {
+    position: absolute;
+    top: 150px;
+    left: 450px;
+}
+
+.emoji-face {
+    float: left;
+    margin-right: 20px;
+}
+
+h1 {
+    margin-left: 500px;
+}
+
+.emoji-face:hover {
+    transform: scale(1.25);
+}
